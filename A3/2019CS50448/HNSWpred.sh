@@ -1,0 +1,1 @@
+mpirun --bind-to none ./test $1 $2 $3 $4

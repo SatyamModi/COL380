@@ -1,0 +1,29 @@
+Satyam Kumar Modi, 2019CS50448
+
+For Graph 1
+./wtf data/8717_31525/edges.dat 8717 31525 0.1 5000 30 20 369
+no. of threads	 	total_time 	
+1			58274ms
+2			32227ms
+4			22479ms
+8			12034ms
+16			6038ms
+
+For Graph 2
+./wtf data/81867_545671/edges.dat 81867 545671 0.3 100 20 30 120		
+no. of threads	 	total_time 	
+1			609138ms
+2			315427ms
+4			161724ms
+8			84157ms
+16			43475ms
+
+For Graph 3
+./wtf data/82168_870161/edges.dat 82168 870161 0.2 100 3 10 5678
+no. of threads	 	total_time 	
+1			1545986ms
+2			784594ms
+4			405124ms
+8			224517ms
+16			115487ms
+	
